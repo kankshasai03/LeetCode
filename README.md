@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kankshasai03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kankshasai03/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/kankshasai03/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/kankshasai03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kankshasai03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kankshasai03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kankshasai03/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/kankshasai03/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kankshasai03/LeetCode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kankshasai03/LeetCode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kankshasai03/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
