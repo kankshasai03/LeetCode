@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kankshasai03/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kankshasai03/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kankshasai03/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kankshasai03/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kankshasai03/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kankshasai03/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
