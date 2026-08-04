@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kankshasai03/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kankshasai03/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/kankshasai03/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kankshasai03/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/kankshasai03/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0844-backspace-string-compare](https://github.com/kankshasai03/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
